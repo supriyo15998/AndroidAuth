@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_cnf_password">Confirm Password</string>
+    <string name="login_button_label">Login</string>
+    <string name="reg_btn_label">Register</string>
+    <string name="sign_up">"Don't have an account? Create here"</string>
+    <string name="log_in">"Already have an account? Login here"</string>
+    <string name="reg_header">Register Here</string>
+    <string name="login_header">Login Here</string>
+</resources>
